@@ -1,1 +1,1 @@
-# -AI-Powered-SMS-Spam-Filter
+# AI-Powered-SMS-Spam-Filter
