@@ -138,7 +138,7 @@ if st.button("Check SMS 📩", type="primary"):
                 color_bg, color_text = "#5D5FC8", "#fcfcfc"
                 reason_text = "ML model detected as Spam"
             else:
-                color_bg, color_text = "#46BA46", "#31bdd6"
+                color_bg, color_text = "#70D5CB", "#170486"
                 reason_text = "ML model detected as Ham"
 
             st.markdown(f"""
@@ -164,3 +164,4 @@ st.markdown(
     "<p style='text-align:center; color:gray;'>⚡ Powered by AI | Developed with ❤️ using Streamlit</p>",
     unsafe_allow_html=True
 )
+
