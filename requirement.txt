@@ -1,6 +1,4 @@
-fastapi
-uvicorn
+streamlit
 scikit-learn
 pandas
-pyyaml
 joblib
