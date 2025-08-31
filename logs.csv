@@ -1,0 +1,5 @@
+timestamp,message,verdict,reason
+2025-08-31T11:31:29.897980,Your OTP is 123456 from icicibank.com,allowed,whitelisted
+2025-08-31T11:31:40.336685,Your OTP is 123456 from icicibank.com,allowed,whitelisted
+2025-08-31T11:33:07.288659,Your OTP is 123456 from icicibank.com,allowed,whitelisted
+2025-08-31T11:34:29.959035,Win free cash now,blocked,ai
