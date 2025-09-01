@@ -50,3 +50,6 @@ Docs: https://ai-powered-sms-spam-filter-for-a2p-sms.onrender.com/docs#/default/
 
 ## Streamlit Deployment
 App URL: https://ai-powered-sms-spam-filter.streamlit.app/
+
+## Demo Loom Video
+Loom Link : https://www.loom.com/share/3863e653122241f290a130e4f6438f9d?sid=23b4f17e-73ef-4232-80c7-7b68b38ccc0e
