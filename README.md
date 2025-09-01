@@ -37,14 +37,15 @@ curl -X POST "http://127.0.0.1:8000/predict" \
 -H "Content-Type: application/json" \
 -d '{"message": "Congratulations! You have won a free voucher"}'
 
- Response Example:
-{
-  "message": "Congratulations! You have won a free voucher",
-  "prediction": "Spam"
-}
+   Response Example:
+  {
+    "message": "Congratulations! You have won a free voucher",
+    "prediction": "Spam"
+  }
 
 ## Render Deployment
 Base URL: https://ai-powered-sms-spam-filter-for-a2p-sms.onrender.com
+
 Docs: https://ai-powered-sms-spam-filter-for-a2p-sms.onrender.com/docs#/default/predict_get_predict_get
 
 ## Streamlit Deployment
